@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/faucet-ui/static/css/main.073c9b0a.css",
+    "main.js": "/faucet-ui/static/js/main.ac3db848.js",
+    "static/js/787.e73a5041.chunk.js": "/faucet-ui/static/js/787.e73a5041.chunk.js",
+    "static/media/logo.svg": "/faucet-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/faucet-ui/index.html",
+    "main.073c9b0a.css.map": "/faucet-ui/static/css/main.073c9b0a.css.map",
+    "main.ac3db848.js.map": "/faucet-ui/static/js/main.ac3db848.js.map",
+    "787.e73a5041.chunk.js.map": "/faucet-ui/static/js/787.e73a5041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac3db848.js"
+  ]
+}
